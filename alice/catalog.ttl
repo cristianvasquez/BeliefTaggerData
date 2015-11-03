@@ -1,0 +1,23 @@
+@prefix id: <http://openthings.cc/> .
+@prefix oc: <http://openthings.cc/class/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+id:bb094939-e550-4b5e-bede-dc4f66fd163c a oc:FoodOffer ; foaf:depiction "img/food/bread/pain.JPG" ; dc:title "title" .
+id:b77def15-7956-4007-9666-5d5dc96a1677 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-2.JPG" ; dc:title "title" .
+id:ba37ad93-d0bc-4124-8823-1bb3d756e4c7 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-3.JPG" ; dc:title "title" .
+id:d3e31a73-7bd2-4a05-bad0-fb975c4b433b a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-4.JPG" ; dc:title "title" .
+id:5947f357-7c00-419e-b9cf-14de4d8fbdf3 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-5.JPG" ; dc:title "title" .
+id:98c6b644-fdb8-48c8-b5b5-460a589e5ace a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-6.JPG" ; dc:title "title" .
+id:01b1c401-3605-4d88-ac58-fe168b0f9c3c a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-7.JPG" ; dc:title "title" .
+id:b6cd0b8b-0787-4f10-a6a9-ab1efad7eb83 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-8.JPG" ; dc:title "title" .
+id:4d12def3-e84b-45f0-8b9b-8aac3d3def02 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-9.JPG" ; dc:title "title" .
+id:46ce055e-893a-418e-bac7-4105812df9a1 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-10.JPG"  ; dc:title "title" .
+id:7a0c3b29-0fc1-4578-8e84-6c662b7ac92b a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-11.JPG"  ; dc:title "title" .
+id:1f2131b8-de5f-4eeb-96ad-2fc916500c3a a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-12.JPG"  ; dc:title "title" .
+id:fec883b5-8ec9-47de-9015-8e6187e62a20 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-13.JPG"  ; dc:title "title" .
+id:b3aa173f-8292-4999-9573-009f68d1d4bc a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-14.JPG"  ; dc:title "title" .
+id:3ac6eb6c-f9c2-426a-af7f-bc82b0860e1f a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-15.JPG"  ; dc:title "title" .
+id:1eaa5a90-cddf-4bff-9746-29fa22e1b7c1 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-16.JPG"  ; dc:title "title" .
+id:e8dfd2d3-8b52-4f32-95ec-25c36546a040 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-17.JPG"  ; dc:title "title" .
+id:8cf7e595-12db-42db-8896-153eb6a0736d a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-18.JPG"  ; dc:title "title" .
+id:8e2ca5d8-3f33-431d-b0f1-65fa0ae86d89 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-19.JPG"  ; dc:title "title" .
