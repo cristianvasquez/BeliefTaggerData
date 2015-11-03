@@ -1,10 +1,10 @@
 @prefix oc: <http://openthings.cc/class/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 
-[] a oc:Catalog ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/alice/catalogAlice/catalog.ttl> ; dc:title "The catalog of alice" ;
+[] a oc:Catalog ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/alice/catalogAlice/catalog.ttl> ; dc:title "The catalog of alice" .
 
-[] a oc:Catalog ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/bob/catalogBob/catalog.ttl> ; dc:title "The catalog of bob" ;
+[] a oc:Catalog ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/bob/catalogBob/catalog.ttl> ; dc:title "The catalog of bob" .
 
-[] a oc:Vocab ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/master/catalog/catalog.ttl> ; dc:title "The basic definitions" ;
+[] a oc:Vocab ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/master/catalog/catalog.ttl> ; dc:title "The basic definitions" .
 
-[] a oc:Index ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/master/catalog/catalog.ttl> ; dc:title "A third party index" ;
+[] a oc:Index ; oc:Dataset <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/master/catalog/catalog.ttl> ; dc:title "A third party index" .
