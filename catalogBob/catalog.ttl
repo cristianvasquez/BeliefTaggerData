@@ -1,4 +1,4 @@
-@prefix id: <http://openthings.cc/> .
+@prefix id: <https://raw.githubusercontent.com/cristianvasquez/BeliefTaggerData/bob/catalogBob/> .
 @prefix oc: <http://openthings.cc/class/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 
