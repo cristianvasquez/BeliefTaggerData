@@ -1,0 +1,32 @@
+@prefix id: <http://openthings.cc/> .
+@prefix oc: <http://openthings.cc/class/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+id:1fae650a-1f9f-4fe1-a685-5928b8939208 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-20.JPG"  ; dc:title "title" .
+id:3973b4e8-066e-482b-ad31-43eef76742bf a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-21.JPG"  ; dc:title "title" .
+id:79b2e00b-23a6-433b-bc66-8b2915d7c105 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-22.JPG"  ; dc:title "title" .
+id:2131d095-ae2a-4b05-a16b-4708391af4a2 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-23.JPG"  ; dc:title "title" .
+id:41d2101b-0e91-4462-b9e5-3f5776a0da3d a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-24.JPG"  ; dc:title "title" .
+id:74552bbc-31f5-452b-b30e-43a140a4b2e3 a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-25.JPG"  ; dc:title "title" .
+id:effb13ba-1307-4557-82db-d0994a0dde8c a oc:FoodOffer ; foaf:depiction "img/food/bread/pain-26.JPG"  ; dc:title "title" .
+id:b9e6fe3b-0848-480c-ba1f-8c00ffdb0a02 a oc:FoodOffer ; foaf:depiction "img/food/icecream/4.JPG"  ; dc:title "title" .
+id:e7b7bbd2-b699-4c27-95d0-517ea44742dd a oc:FoodOffer ; foaf:depiction "img/food/icecream/8.JPG"  ; dc:title "title" .
+id:299ab81d-3fca-4c93-b54b-46b4b138f20a a oc:FoodOffer ; foaf:depiction "img/food/icecream/14.JPG"  ; dc:title "title" .
+id:17a359bd-cc88-410f-a1ca-d84e76931cf4 a oc:FoodOffer ; foaf:depiction "img/food/icecream/22.JPG"  ; dc:title "title" .
+id:a73d4603-499e-4f26-bdfe-c3722c78ed1f a oc:FoodOffer ; foaf:depiction "img/food/icecream/cremeux-pecan.JPG"  ; dc:title "title" .
+id:d433f0bf-d48f-4859-8db4-b140dcdec4b6 a oc:FoodOffer ; foaf:depiction "img/food/meat/5.JPG"  ; dc:title "title" .
+id:ae860579-a99c-4fdd-8cb8-0d0bec9f8a77 a oc:FoodOffer ; foaf:depiction "img/food/meat/6.JPG"  ; dc:title "title" .
+id:2bea2d57-ec3f-4e9b-a9f3-958e85228ca6 a oc:FoodOffer ; foaf:depiction "img/food/meat/8.JPG"  ; dc:title "title" .
+id:4a8892e3-f525-4f13-b5ec-b4f851d5f2f7 a oc:FoodOffer ; foaf:depiction "img/food/meat/9.JPG"  ; dc:title "title" .
+id:0f5ccbab-4f94-46d6-b44a-70f946d245c7 a oc:FoodOffer ; foaf:depiction "img/food/meat/15.JPG"  ; dc:title "title" .
+id:96e96c70-0970-4297-a77a-416f2843777f a oc:FoodOffer ; foaf:depiction "img/food/meat/17.JPG"  ; dc:title "title" .
+id:b6841b67-5439-4171-99bb-a6ad7631780e a oc:FoodOffer ; foaf:depiction "img/food/meat/37.JPG"  ; dc:title "title" .
+id:14459361-1cc1-4000-8986-05875257e2a5 a oc:FoodOffer ; foaf:depiction "img/food/meat/45.JPG"  ; dc:title "title" .
+id:ef8ccecd-ee87-4287-a69f-0803927a0880 a oc:FoodOffer ; foaf:depiction "img/food/meat/50.JPG"  ; dc:title "title" .
+id:46c27079-b849-43b4-9f9d-48e809731017 a oc:FoodOffer ; foaf:depiction "img/food/milk/joost K-16.JPG"  ; dc:title "title" .
+id:63e75172-cc84-4a2a-82d2-f8ec54428a4f a oc:FoodOffer ; foaf:depiction "img/food/milk/joost K-19.JPG"  ; dc:title "title" .
+id:80e5110e-49f3-4c6a-acb1-324eb3d0a653 a oc:FoodOffer ; foaf:depiction "img/food/milk/joost K-26.JPG"  ; dc:title "title" .
+id:6dc7c6da-1ca1-4be5-ba71-1fcc7ead124b a oc:FoodOffer ; foaf:depiction "img/food/milk/joost K-28.JPG"  ; dc:title "title" .
+id:5ec4ee64-1e6b-4fbc-abc3-8ef437f09997 a oc:FoodOffer ; foaf:depiction "img/food/milk/joost K-36.JPG"  ; dc:title "title" .
+id:5f64580f-cb33-4fff-badf-57d372b7497c a oc:FoodOffer ; foaf:depiction "img/food/milk/joost K-38.JPG"  ; dc:title "title" .
+id:80afac88-c2f2-4de2-8c0b-6049b7b2ca04 a oc:FoodOffer ; foaf:depiction "img/food/milk/lait.JPG"  ; dc:title "title" .
