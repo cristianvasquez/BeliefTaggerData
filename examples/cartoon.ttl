@@ -1,6 +1,6 @@
 prefix c: <http://example.org/cartoons#>
 
-c:Tom a c:Cat ;
+c:Tom a c:Cat .
 c:Jerry a c:Mouse ;
 c:hasLiteral "123" ;
 c:smarterThan c:Tom .
