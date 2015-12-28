@@ -17,6 +17,11 @@ dbr:Little_Prince	ns5:wasDerivedFrom	<http://en.wikipedia.org/wiki/Little_Prince
 @prefix foaf:	<http://xmlns.com/foaf/0.1/> .
 @prefix ns7:	<http://en.wikipedia.org/wiki/> .
 dbr:Little_Prince	foaf:isPrimaryTopicOf	ns7:Little_Prince .
+
+dbr:Little_Prince img:hasImage "http://www.angelfire.com/hi/littleprince/images/prince.gif" ;
+"http://www.english.rfi.fr/sites/images.rfi.fr/files/aef_image/le%20petit%20prince_facebook_coverphoto.jpg" ;
+"http://www.thelittleprince.com/wp-content/uploads/2010/12/reverbere.jpg" .
+
 @prefix dbo:	<http://dbpedia.org/ontology/> .
 dbr:Little_Prince	dbo:wikiPageID	3204581 ;
 	dbo:wikiPageRevisionID	645291408 ;
@@ -26,12 +31,6 @@ dbr:Little_Prince	dbo:wikiPageID	3204581 ;
 		dbr:List_of_The_Little_Prince_adaptations ,
 		<http://dbpedia.org/resource/Little_Prince_(chief)> ,
 		<http://dbpedia.org/resource/The_Little_Prince_(opera)> ,
-		<http://dbpedia.org/resource/Little_Prince_(song)> ,
-		<http://dbpedia.org/resource/The_Little_Prince_(play)> ,
-		<http://dbpedia.org/resource/The_Little_Prince_(2015_film)> ,
-		<http://dbpedia.org/resource/The_Little_Prince_(Lost)> ,
-		<http://dbpedia.org/resource/The_Little_Prince_(1974_film)> ,
-		<http://dbpedia.org/resource/The_Little_Prince_(2010_TV_series)> ,
 		<http://dbpedia.org/resource/The_Adventures_of_the_Little_Prince_(TV_series)> .
 @prefix ns9:	<http://purl.org/voc/vrank#> .
 dbr:Little_Prince	ns9:hasRank	_:b19213081 .
