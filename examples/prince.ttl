@@ -1,27 +1,30 @@
 @prefix owl:	<http://www.w3.org/2002/07/owl#> .
 @prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix ex:	<http://example.org/> .
+@prefix ns2:	<http://wikidata.dbpedia.org/resource/> .
+@prefix ns3:	<http://wikidata.org/entity/> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns5:	<http://www.w3.org/ns/prov#> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix ns9:	<http://purl.org/voc/vrank#> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+
 dbr:Little_Prince	owl:sameAs	<http://el.dbpedia.org/resource/\u039C\u03B9\u03BA\u03C1\u03CC\u03C2_\u03A0\u03C1\u03AF\u03B3\u03BA\u03B9\u03C0\u03B1\u03C2_(\u03B1\u03C0\u03BF\u03C3\u03B1\u03C6\u03AE\u03BD\u03B9\u03C3\u03B7)> ,
 		<http://es.dbpedia.org/resource/El_principito_(desambiguaci\u00F3n)> ,
 		<http://pl.dbpedia.org/resource/Ma\u0142y_Ksi\u0105\u017C\u0119_(ujednoznacznienie)> .
-@prefix ns2:	<http://wikidata.dbpedia.org/resource/> .
 dbr:Little_Prince	owl:sameAs	ns2:Q393654 .
-@prefix ns3:	<http://wikidata.org/entity/> .
 dbr:Little_Prince	owl:sameAs	ns3:Q393654 .
-@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
 dbr:Little_Prince	rdfs:label	"\u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u0439 \u043F\u0440\u0438\u043D\u0446 (\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F)"@ru ,
 		"Ma\u0142y Ksi\u0105\u017C\u0119 (ujednoznacznienie)"@pl ,
 		"El principito (desambiguaci\u00F3n)"@es ,
 		"Little Prince"@en .
-@prefix ns5:	<http://www.w3.org/ns/prov#> .
 dbr:Little_Prince	ns5:wasDerivedFrom	<http://en.wikipedia.org/wiki/Little_Prince?oldid=645291408> .
-@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
 
-@prefix ex:	<http://example.org/> .
 dbr:Little_Prince ex:hasImage <http://www.angelfire.com/hi/littleprince/images/prince.gif> ;
  ex:hasImage <http://www.english.rfi.fr/sites/images.rfi.fr/files/aef_image/le%20petit%20prince_facebook_coverphoto.jpg> ;
  ex:hasImage <http://www.thelittleprince.com/wp-content/uploads/2010/12/reverbere.jpg> .
 
-@prefix dbo:	<http://dbpedia.org/ontology/> .
 dbr:Little_Prince	dbo:wikiPageID	3204581 ;
 	dbo:wikiPageRevisionID	645291408 ;
 	dbo:wikiPageDisambiguates	dbr:The_Little_Prince ,
@@ -31,7 +34,5 @@ dbr:Little_Prince	dbo:wikiPageID	3204581 ;
 		<http://dbpedia.org/resource/Little_Prince_(chief)> ,
 		<http://dbpedia.org/resource/The_Little_Prince_(opera)> ,
 		<http://dbpedia.org/resource/The_Adventures_of_the_Little_Prince_(TV_series)> .
-@prefix ns9:	<http://purl.org/voc/vrank#> .
 dbr:Little_Prince	ns9:hasRank	_:b19213081 .
-@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
 _:b19213081	ns9:rankValue	"0.730785369873046875"^^xsd:float .
