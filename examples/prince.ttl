@@ -16,7 +16,7 @@ dbr:Little_Prince	rdfs:label	"\u041C\u0430\u043B\u0435\u043D\u044C\u043A\u0438\u
 dbr:Little_Prince	ns5:wasDerivedFrom	<http://en.wikipedia.org/wiki/Little_Prince?oldid=645291408> .
 @prefix foaf:	<http://xmlns.com/foaf/0.1/> .
 @prefix ns7:	<http://en.wikipedia.org/wiki/> .
-dbr:Little_Prince	foaf:isPrimaryTopicOf	ns7:Little_Prince .
+dbr:Little_Prince	foaf:isPrimaryTopicOf	"http://www.angelfire.com/hi/littleprince/images/prince.gif" .
 
 @prefix ex:	<http://example.org/> .
 dbr:Little_Prince ex:hasImage "http://www.angelfire.com/hi/littleprince/images/prince.gif" ;
