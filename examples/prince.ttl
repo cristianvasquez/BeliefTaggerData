@@ -20,8 +20,8 @@ dbr:Little_Prince	foaf:isPrimaryTopicOf	ns7:Little_Prince .
 
 @prefix ex:	<http://example.org/> .
 dbr:Little_Prince ex:hasImage "http://www.angelfire.com/hi/littleprince/images/prince.gif" ;
-"http://www.english.rfi.fr/sites/images.rfi.fr/files/aef_image/le%20petit%20prince_facebook_coverphoto.jpg" ;
-"http://www.thelittleprince.com/wp-content/uploads/2010/12/reverbere.jpg" .
+ ex:hasImage "http://www.english.rfi.fr/sites/images.rfi.fr/files/aef_image/le%20petit%20prince_facebook_coverphoto.jpg" ;
+ ex:hasImage "http://www.thelittleprince.com/wp-content/uploads/2010/12/reverbere.jpg" .
 
 @prefix dbo:	<http://dbpedia.org/ontology/> .
 dbr:Little_Prince	dbo:wikiPageID	3204581 ;
