@@ -18,7 +18,8 @@ dbr:Little_Prince	ns5:wasDerivedFrom	<http://en.wikipedia.org/wiki/Little_Prince
 @prefix ns7:	<http://en.wikipedia.org/wiki/> .
 dbr:Little_Prince	foaf:isPrimaryTopicOf	ns7:Little_Prince .
 
-dbr:Little_Prince img:hasImage "http://www.angelfire.com/hi/littleprince/images/prince.gif" ;
+@prefix ex:	<http://example.org/> .
+dbr:Little_Prince ex:hasImage "http://www.angelfire.com/hi/littleprince/images/prince.gif" ;
 "http://www.english.rfi.fr/sites/images.rfi.fr/files/aef_image/le%20petit%20prince_facebook_coverphoto.jpg" ;
 "http://www.thelittleprince.com/wp-content/uploads/2010/12/reverbere.jpg" .
 
